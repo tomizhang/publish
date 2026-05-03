@@ -1,0 +1,15 @@
+{
+  "ConsecutiveLosses": {
+    "1000LUNCUSDT": 0,
+    "LABUSDT": 0,
+    "KNCUSDT": 1,
+    "ZECUSDT": 1,
+    "USTCUSDT": 2,
+    "BSBUSDT": 2,
+    "FHEUSDT": 0,
+    "SKYAIUSDT": 0,
+    "BUSDT": 0,
+    "BIOUSDT": 0
+  },
+  "BlacklistedSymbols": {}
+}
