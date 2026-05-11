@@ -13,6 +13,7 @@
           "Serilog.Sinks.Console": "6.1.1",
           "Serilog.Sinks.File": "7.0.0",
           "SkiaSharp": "3.119.2",
+          "SkiaSharp.NativeAssets.Linux.NoDependencies": "3.119.2",
           "Swashbuckle.AspNetCore": "6.6.2",
           "runtimepack.Microsoft.NETCore.App.Runtime.linux-x64": "8.0.16",
           "runtimepack.Microsoft.AspNetCore.App.Runtime.linux-x64": "8.0.16"
@@ -1517,6 +1518,13 @@
           }
         }
       },
+      "SkiaSharp.NativeAssets.Linux.NoDependencies/3.119.2": {
+        "native": {
+          "runtimes/linux-x64/native/libSkiaSharp.so": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
       "SkiaSharp.NativeAssets.macOS/3.119.2": {},
       "SkiaSharp.NativeAssets.Win32/3.119.2": {},
       "Swashbuckle.AspNetCore/6.6.2": {
@@ -1785,6 +1793,13 @@
       "sha512": "sha512-nmy2dOFWPvQKMglfpjz8+/xQQcSrL9jzul3cUyzCJVSwrmSAw+6B1sEgU7jt6NZBptwGq2k/V0kjyu2GizMFtg==",
       "path": "skiasharp/3.119.2",
       "hashPath": "skiasharp.3.119.2.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Linux.NoDependencies/3.119.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1rmveKZ8Cz7k4QJQdtKV6RFXYIEqYBiX450Bm0Bk41EE50MMPUyF81cRnASsuV0qCwdZuzjZTaFvoqS0Q2zVfA==",
+      "path": "skiasharp.nativeassets.linux.nodependencies/3.119.2",
+      "hashPath": "skiasharp.nativeassets.linux.nodependencies.3.119.2.nupkg.sha512"
     },
     "SkiaSharp.NativeAssets.macOS/3.119.2": {
       "type": "package",
