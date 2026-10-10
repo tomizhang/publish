@@ -3,7 +3,7 @@
   "isOrderEnabled": true,
   "macroTimeframe": "30m",
   "targetSymbol": "",
-  "consecutiveMinBars": 2,
+  "consecutiveMinBars": 3,
   "consecutiveMinPct": 0.1,
   "aggregationSeconds": 6,
   "lookbackTicks": 3000,
