@@ -8,6 +8,7 @@
   "aggregationSeconds": 6,
   "lookbackTicks": 3000,
   "tolerance": 0.0002,
+  "dynamicSpreadRatio": 0.06,
   "vertexRefineWindowMs": 30000,
   "minSignalIntervalMs": 60000,
   "maxProjectionBars": 15,
