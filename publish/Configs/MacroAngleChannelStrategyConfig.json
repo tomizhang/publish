@@ -1,0 +1,18 @@
+{
+  "isStrategyEnabled": true,
+  "isOrderEnabled": true,
+  "macroTimeframe": "30m",
+  "targetSymbol": "",
+  "consecutiveMinBars": 2,
+  "consecutiveMinPct": 0.1,
+  "aggregationSeconds": 6,
+  "lookbackTicks": 3000,
+  "tolerance": 0.0002,
+  "vertexRefineWindowMs": 30000,
+  "minSignalIntervalMs": 60000,
+  "maxProjectionBars": 15,
+  "defaultLeverage": 20,
+  "marginUsdt": 1.0,
+  "targetRoeTp": 0.20,
+  "riskRoeSl": 0.10
+}
