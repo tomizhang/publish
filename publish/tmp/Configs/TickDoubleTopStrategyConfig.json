@@ -1,0 +1,21 @@
+{
+  "isStrategyEnabled": true,
+  "isOrderEnabled": true,
+  "macroTimeframe": "1m",
+  "targetSymbol": "",
+  "consecutiveMinBars": 3,
+  "consecutiveMinPct": 0.6,
+  "doubleTopSubsequentBars": 1,
+  "fixedPriceStep": 0,
+  "doubleTopMinIntervalValue": 10,
+  "doubleTopIntervalUnit": "Second",
+  "doubleTopMinPricePct": 0.10,
+  "defaultLeverage": 20,
+  "marginUsdt": 1.0,
+  "targetRoeTp": 0.20,
+  "riskRoeSl": 0.80,
+  "takeProfitPct": 0.8,
+  "stopLossBufferPct": 0.01,
+  "maxNeckBreakTicks": 10,
+  "minSignalIntervalMs": 60000
+}
