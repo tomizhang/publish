@@ -1,6 +1,6 @@
 {
-  "isStrategyEnabled": true,
-  "isOrderEnabled": true,
+  "isStrategyEnabled": false,
+  "isOrderEnabled": false,
   "macroTimeframe": "30m",
   "targetSymbol": "",
   "consecutiveMinBars": 3,
