@@ -17,8 +17,5 @@
   "takeProfitPct": 0.8,
   "stopLossBufferPct": 0.01,
   "maxNeckBreakTicks": 10,
-  "minSignalIntervalMs": 60000,
-  "breakEvenTimeMinutes": 2.0,
-  "breakEvenFeeRate": 0.0008,
-  "pullbackLongDominanceRatio": 0.50
+  "minSignalIntervalMs": 60000
 }
