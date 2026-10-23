@@ -19,5 +19,6 @@
   "maxNeckBreakTicks": 10,
   "minSignalIntervalMs": 60000,
   "breakEvenTimeMinutes": 2.0,
-  "breakEvenFeeRate": 0.0008
+  "breakEvenFeeRate": 0.0008,
+  "pullbackLongDominanceRatio": 0.50
 }
