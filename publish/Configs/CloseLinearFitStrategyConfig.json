@@ -1,0 +1,19 @@
+{
+  "isStrategyEnabled": true,
+  "isOrderEnabled": false,
+  "macroTimeframe": "15m",
+  "targetSymbol": "",
+  "minBars": 6,
+  "maxBars": 30,
+  "minR2": 0.97,
+  "minChangePct": 1.0,
+  "maxObservationBuckets": 1,
+  "breakoutInvalidatePct": 2.0,
+  "pullbackRatio": 0.0006,
+  "defaultLeverage": 20,
+  "marginUsdt": 1.0,
+  "takeProfitPct": 0.8,
+  "stopLossPct": 0.8,
+  "stopLossBufferPct": 0.01,
+  "coolingSeconds": 60
+}
